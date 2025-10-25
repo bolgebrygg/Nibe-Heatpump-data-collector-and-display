@@ -1,0 +1,6 @@
+/* Minimal styles for MyUplink display plugin tables and pivot chart */
+.myuplink-table-container, .myuplink-pivot-chart { margin: 16px 0; font-family: Arial, sans-serif; }
+.myuplink-table-responsive { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.myuplink-data-table, .myuplink-full-table-inner, .myuplink-pivot-inner { border-collapse: collapse; width: 100%; }
+.myuplink-data-table th, .myuplink-data-table td, .myuplink-pivot-inner th, .myuplink-pivot-inner td { padding: 8px 10px; border-bottom: 1px solid #eee; }
+.myuplink-pivot-chart .myuplink-pivot-controls label { cursor: pointer; }
